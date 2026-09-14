@@ -14,7 +14,15 @@
 
 ---
 
-### 🙋‍♀️ About Me
+## 🧭 About Me
+
+```yaml
+name:        Aamna Batool
+role:        QA Automation Engineer | Web/Mobile Developer | AI Specialist
+affiliation: Institute of Space Technology (IST), Islamabad
+location:    Islamabad, Pakistan 🇵🇰
+focus:       [QA Automation, AI Workflows (Claude Code/MCP), Web/Mobile Apps, Technical Operations]
+status:      Open to technical collaborations 🚀
 
 Computer Science student at the Institute of Space Technology (IST), Islamabad. Passionate about Software Quality Assurance, custom AI-driven workflow automation using Claude Code CLI & MCP, and Web/Mobile development. Currently balance my academics with a part-time role handling technical operations, client communication, and software testing.
 
