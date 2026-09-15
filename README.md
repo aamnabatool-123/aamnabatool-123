@@ -63,7 +63,7 @@ I'm a Computer Science student at the Institute of Space Technology (IST), Islam
 
 ---
 
-### 💼 Current Professional Experience (Part-Time Job)
+### 💼 Current Professional Experience 
 
 **Freelance Operations & QA Specialist**
 * **Strategic Bidding & Proposals:** Managing client outreach, writing targeted technical proposals, and bidding across freelance platforms.
